@@ -3,7 +3,7 @@ import sys
 import urllib2
 
 """
-	api hacker target scripted by Ms.ambari
+	api hacker target script by Ms.ambari
 	github: https://github.com/Ranginang67
 	YouTube: Ms.ambari
 """
